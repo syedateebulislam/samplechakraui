@@ -13,7 +13,7 @@ function Profile() {
 
         <Box  alignSelf="center" px="22" py="11">
             <Heading fontWeight="extrabold" color="cyan.500" size="2xl">
-                2yr+
+                3yr+
             </Heading>
         </Box>
 
